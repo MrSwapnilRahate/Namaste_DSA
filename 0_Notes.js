@@ -33,7 +33,7 @@ O(n) - Depents on i/p size (input jitni memory)
 /*
 ----------------------------------- Data Types --------------------------------------------------
 1) Primitive - number, string, symbol, null(value milihi nhi), undefined(janbuj ke khali), Bigint
-2) Non Primitive -Array, Object, Function
+2) Non Primitive - Array, Object, Function
 3) Variables - var, let, const
 4) Loops - for, while, for-of, forEach
 */
