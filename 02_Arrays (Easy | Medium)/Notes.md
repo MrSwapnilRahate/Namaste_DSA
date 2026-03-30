@@ -10,3 +10,6 @@ in place => have to change(modify) the same(exhisting) array, don't have to crea
 
 relative order kept same => cannot change the array
 
+Two pointer 
+    -> 1st pointer to hold the value
+    -> 2nd to check and itrating
