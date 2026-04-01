@@ -18,3 +18,23 @@
 # V V IMP -> Before starting any problem just see if there is any math formula in that
             bcoz solving que by any formula will be the best soluction coz it will land 
             u to minimun time complexcity.
+
+# Hash
+    In JS, Its a simple object
+    hash = { "key": "value" };
+    
+# XOR ( ^ ) (Bit Manupulation)
+ In JS, a ^ a = 0 and a ^ 0 = a
+ 110
+ 001
+ ---
+ 110
+
+ 110
+ 110
+ ---
+ 000
+
+# V V IMP 
+ whenever we see duplicates or eleminates the elements in the question, always use XOR(^), to eleminate the duplicate elements
+
